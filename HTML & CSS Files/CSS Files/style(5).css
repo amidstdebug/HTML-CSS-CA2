@@ -1,0 +1,44 @@
+/* stylesheet for style(5)*/
+
+.about{
+    color: white;
+    background: #383434;
+}
+
+.img-fluid{
+    width:100%;
+    object-fit: cover;
+}
+
+.background3{
+    background: url("/Pictures/cloud5.jpg") fixed;
+    background-size: 100%;
+
+}
+.background1{
+    background: #545454;
+}
+.text{
+    color:white;
+    padding-left:2em;
+    background-color: #1a1a1a;
+    height:auto
+
+}
+.para1{
+    font-size: 2em;
+    padding-right:4em;
+    padding-left:4em;
+}
+.personality{
+    background:#7d98a1;
+    color:white;
+}
+.interests{
+    color: white;
+ }
+.mycontainer{
+    padding-right:8em;
+    padding-left:8em;
+}
+
